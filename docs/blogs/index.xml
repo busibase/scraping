@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Services on Business Base Scraping</title>
+    <link>http://example.org/blogs/</link>
+    <description>Recent content in Services on Business Base Scraping</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Tue, 31 Oct 2017 22:27:21 -0500</lastBuildDate>
+    
+	<atom:link href="http://example.org/blogs/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>サービス概要</title>
+      <link>http://example.org/blogs/aliquam/</link>
+      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/aliquam/</guid>
+      <description> サービス概要 特定のホームページから情報収集・リスト化をいたします。詳細はこちらをご覧ください。
+業務フロー  お客様からのご登録 承認・要件定義 業務開始（要件定義から1 ~ 3日） リスト提出 修正 業務完了・お支払い  支払い手段  現金 Bitcoin/Ethereum etc&amp;hellip;（お支払時のレート適用）  お申し込み  </description>
+    </item>
+    
+    <item>
+      <title>お申し込み</title>
+      <link>http://example.org/blogs/tempus/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:13 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/tempus/</guid>
+      <description> Name  Email  Message 料金プラン: 抽出先サイト名： データ項目： ファイル名: .csv         お申し込み上の注意点/必須事項 お名前・連絡先 抽出先サイト名 データ項目 料金プラン  ご登録から3日以内にご連絡いたします。      </description>
+    </item>
+    
+    <item>
+      <title>料金表</title>
+      <link>http://example.org/blogs/magna/</link>
+      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/magna/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Portfolio</title>
+      <link>http://example.org/blogs/ipsum/</link>
+      <pubDate>Tue, 31 Oct 2017 21:28:43 -0500</pubDate>
+      
+      <guid>http://example.org/blogs/ipsum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
