@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "http://busi-scraping.tk"
+baseurl = "http://busi-scraping.tk/"
 title = "Business base scraping"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
