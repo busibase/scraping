@@ -1,5 +1,5 @@
 # Page settings
-baseurl = "localhost:1313"
+baseurl = "http://busi-scraping.tk"
 title = "Business base scraping"
 languageCode = "en-us"
 theme = "hugo-elate-theme"
@@ -48,7 +48,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Valuable Data"
     description = "プログラムを作成し、瞬時にデータを取ることでリアルタイムなデータを抽出。"
-    url = "#services"
+    url = "work"
     button = "Get In Touch"
     icon = "icon-bulb"
     img = "img_7.jpg"
@@ -56,7 +56,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Custom Solution"
     description = "スクレイピング技術を利用し、お客様のニーズに沿ったデータを作成します。"
-    url = "#work"
+    url = "services"
     button = "Click Me"
     icon = "icon-wrench"
     img = "img_8.jpg"
@@ -64,7 +64,7 @@ theme = "hugo-elate-theme"
   [[params.intro.item]]
     title = "Best Price"
     description = "何万件ものデータを瞬時にかつリーズナブルな価格でご提供します。"
-    url = "#about"
+    url = "about"
     button = "Price"
     icon = "icon-rocket"
     img = "img_10.jpg"
@@ -170,8 +170,8 @@ theme = "hugo-elate-theme"
     description = "営業リストなど、短時間で最低限の情報リストが欲しい"
     date = "100~1000件(1~3日)"
     price = "¥15/件"
-    url = "#contact"
-    button = "Select this"
+    url = "contact"
+    button = "Plan A"
     icon = "icon-rocket"
     img = "img_10.jpg"
 
@@ -180,8 +180,8 @@ theme = "hugo-elate-theme"
     description = "マーケティングのために短時間かつ情報量の多いリストが欲しい"
     date = "5001~10000件(3~5日)"
     price = "¥8円/件"
-    url = "#contact"
-    button = "Get In Touch"
+    url = "contact"
+    button = "Plan B"
     icon = "icon-bulb"
     img = "img_7.jpg"
 
@@ -190,8 +190,8 @@ theme = "hugo-elate-theme"
     description = "サイトの更新などのための莫大な情報量・項目が欲しい"
     date = "10001件〜(3~10日)"
     price = "¥5/件"
-    url = "#contact"
-    button = "Click Me"
+    url = "contact"
+    button = "Plan C"
     icon = "icon-wrench"
     img = "img_8.jpg"
 
@@ -259,7 +259,7 @@ theme = "hugo-elate-theme"
   # Footer section
   [params.footer]
     enable = true
-    copyright = '&copy; Elate Free HTML5. All Rights Reserved. <br>Created by <a href="http://freehtml5.co/" target="_blank">FREEHTML5.co</a> Images: <a href="http://pexels.com/" target="_blank">Pexels</a>, <a href="http://plmd.me/" target="_blank">plmd.me</a> <br>Hugo port by: <a href="https://github.com/saey55" target="_blank">saey55</a>'
+    copyright = '&copy; Business base scraping All Rights Reserved.'     
     links = [
         ["icon-twitter", "https://www.twitter.com/innovative_usjp"],
         ["icon-facebook", "https://www.facebook.com/busibase"],
